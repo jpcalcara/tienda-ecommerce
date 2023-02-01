@@ -1,2 +1,2 @@
-# tienda-Ecommerce
+# Tienda-Ecommerce
 HTML, CSS, JAVASCRIPT
